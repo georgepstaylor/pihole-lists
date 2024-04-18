@@ -1,5 +1,5 @@
-*.dartsearch.net
-*.googleadservices.com
+(\.|^)*\.dartsearch\.net$
+(\.|^)*\.googleadservices\.com$
 ad.doubleclick.net
 www.googletagmanager.com
 www.googletagservices.com
